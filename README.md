@@ -18,6 +18,12 @@ QQ群 : [825766491](https://jq.qq.com/?_wv=1027&k=ufk3KrUQ)
 
 运行成功之后，修改bilibili_playcount_up.py里面的url即可
 
+```
+pip3 install baidu-aip bs4 pdf2image markdown python-magic requests furl tendo pyperclip pillow selenium
+```
+
+
+
 # ubuntu installation
 
 ### requirement:
@@ -90,4 +96,4 @@ def work(_driver: WebDriver, args):
 
 #### On Windows firefox will run with head as default,while on ubuntu it will run headless as default
 
-"# BilibiliUp2" 
+
