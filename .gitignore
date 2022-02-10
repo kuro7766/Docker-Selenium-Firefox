@@ -1,0 +1,8 @@
+data/
+bug_log/
+bili/
+screenshots/
+kill.sh
+pipe.obj
+pipe_finish.obj
+0_*

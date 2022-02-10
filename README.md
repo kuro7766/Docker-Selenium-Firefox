@@ -8,13 +8,13 @@ bilibili刷播放量，b站刷播放量，哔哩哔哩刷播放量
 
 # Windows 安装
 
-​		需要下载firefox
+需要下载firefox
 
-　　安装对应的python pip环境
+安装对应的python pip环境
 
-　　然后直接运行python bilibili_playcount_up.py。如果无法运行，需要找到适合的geckodriver版本
+然后直接运行python bilibili_playcount_up.py。如果无法运行，需要找到适合的geckodriver版本
 
-　　运行成功之后，修改bilibili_playcount_up.py里面的url即可
+运行成功之后，修改bilibili_playcount_up.py里面的url即可
 
 # ubuntu installation
 
