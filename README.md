@@ -19,7 +19,7 @@ QQ群 : [825766491](https://jq.qq.com/?_wv=1027&k=ufk3KrUQ)
 运行成功之后，修改bilibili_playcount_up.py里面的url即可
 
 ```
-pip3 install baidu-aip bs4 pdf2image markdown python-magic requests furl tendo pyperclip pillow selenium
+pip3 install baidu-aip bs4 pdf2image markdown python-magic requests furl tendo pyperclip pillow selenium==3.14.0
 ```
 
 
@@ -46,7 +46,7 @@ mv geckodriver /usr/local/bin
 then install Selenium for python
 
 ```python
-pip3 install selenium
+pip3 install selenium==3.14.0
 ```
 
 libs for ml.py if you want to include it:
