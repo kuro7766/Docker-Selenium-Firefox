@@ -13,14 +13,17 @@ QQ群 : [825766491](https://jq.qq.com/?_wv=1027&k=ufk3KrUQ)
 需要下载firefox
 
 安装对应的python pip环境
-
-然后直接运行python bilibili_playcount_up.py。如果无法运行，需要找到适合的geckodriver版本
-
-运行成功之后，修改bilibili_playcount_up.py里面的url即可
-
 ```
 pip3 install baidu-aip bs4 pdf2image markdown python-magic requests furl tendo pyperclip pillow selenium==3.14.0
 ```
+
+修改bilibili_playcount_up.py里面的url
+
+然后直接运行python bilibili_playcount_up.py。如果无法运行，需要找到适合的geckodriver版本
+
+
+
+
 
 
 
