@@ -14,7 +14,7 @@ QQ群 : [825766491](https://jq.qq.com/?_wv=1027&k=ufk3KrUQ)
 
 安装对应的python pip环境
 ```
-pip3 install baidu-aip bs4 pdf2image markdown python-magic requests furl tendo pyperclip pillow selenium==3.14.0
+pip3 install chardet baidu-aip bs4 pdf2image markdown python-magic requests furl tendo pyperclip pillow selenium==3.14.0
 ```
 
 修改bilibili_playcount_up.py里面的url
