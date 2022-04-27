@@ -17,10 +17,22 @@ QQ群 : [825766491](https://jq.qq.com/?_wv=1027&k=ufk3KrUQ)
 pip3 install chardet baidu-aip bs4 pdf2image markdown python-magic requests furl tendo pyperclip pillow selenium==3.14.0
 ```
 
-修改bilibili_playcount_up.py里面的url
+修改bilibili_playcount_up.py里面的url，在第13行左右`_driver.get('https://www.bilibili.com/video/你的bv号')`
 
-然后直接运行python bilibili_playcount_up.py。如果无法运行，需要找到适合的geckodriver版本
+然后直接运行python bilibili_playcount_up.py。如果无法运行，需要找到适合的geckodriver版本。
 
+正常情况下运行一次后停止，之后如需重复运行，
+把56行左右的
+
+```
+    # while True:
+    r = quick_firefox.run_sync(work=work, args=())
+```
+修改为
+```
+    while True:
+        r = quick_firefox.run_sync(work=work, args=())
+```
 
 
 
