@@ -4,10 +4,6 @@ kuro7766 原 [BilibiliUp](https://github.com/kuro7766/BilibiliUp/) (40⭐100 for
 
 bilibili刷播放量，b站刷播放量，哔哩哔哩刷播放量
 
-为了避免悲剧再次发生，请只star，不要fork。
-
-QQ群 : [825766491](https://jq.qq.com/?_wv=1027&k=ufk3KrUQ)
-
 # Windows 安装
 
 需要下载firefox
